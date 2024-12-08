@@ -36,6 +36,9 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![exp 1 2-edm](https://github.com/user-attachments/assets/2955a1dd-4b8f-4ed6-af7e-01aa0e4c6736)
+
+
  
  
  ## RESULT
